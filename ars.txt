@@ -1,0 +1,11 @@
+﻿ars = lựa chọn tuyến đường
+ars.all_outbound_routes = -- Tất cả các tuyến đường đi --
+ars.description = miêu tả
+ars.description.tooltip = Một mô tả ngắn gọn để xác định lựa chọn Route này
+ars.enabled = kích hoạt
+ars.general =chung
+ars.members = Lựa chọn các thành viên tuyến đường
+ars.outbound_route_id = tuyến đường nổi bật
+ars.time_group_id = lịch trình nhóm
+menu.route_selections = lựa chọn tuyến đường
+module.ars = lực chọn tuyến đường

@@ -1,0 +1,10 @@
+﻿menu.export_extensions = Phần mở rộng xuất khẩu
+module.export_extensions = Phần mở rộng xuất khẩu
+export_extensions = Phần mở rộng xuất khẩu
+export_extensions.add_extension = Thêm máy nhánh
+export_extensions.extensions = mở rộng
+export_extensions.export_extensions.tooltip = Phần mở rộng xuất khẩu
+export_extensions.export_extensions = Phần mở rộng xuất khẩu
+export_extensions.general = chung
+export_extensions.no_extensions_selected = Không mở rộng đã được chọn
+export_extensions.select_extensions = Chọn phần mở rộng xuất khẩu

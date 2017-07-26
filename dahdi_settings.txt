@@ -1,0 +1,35 @@
+﻿dashboard.asterisk = Asterisk
+dashboard.asterisk_uptime = hoạt động Asterisk
+dashboard.available = có sẳn
+dashboard.current_time = Hiện Bây giờ
+dashboard.dahdi = DAHDi
+dashboard.days =
+	[0]
+	[one] 1 día
+	*[other] {0} días
+dashboard.fail2ban = Fail2Ban
+dashboard.general = Hệ thống bảng điều khiển
+dashboard.hard_disk = Thông tin đĩa cứng
+dashboard.hours =
+	[0]
+	[one] , 1 hora
+	*[other] , {0} horas
+dashboard.minutes =
+	[0]
+	[one] , 1 minuto
+	*[other] , {0} minutos
+dashboard.network_usage = Sử dụng Mạng
+dashboard.seconds =
+	[0]
+	[one] , 1 segundo
+	*[other] , {0} segundos
+dashboard.server_uptime = hoạt động máy chủ
+dashboard.services_status = Dịch vụ Nhà nước
+dashboard.ssh = SSH
+dashboard.system_usage = Sử dụng hệ thống
+dashboard.time = thời gian
+dashboard.uptime_format = {dashboard.days[0]}{dashboard.hours[1]}{dashboard.minutes[2]}{dashboard.seconds[3]}
+dashboard.used = đã qua sử dụng
+dashboard.unavailable = N/D
+menu.dashboard = bảng điều khiển
+module.dashboard = bảng điều khiển

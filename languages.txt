@@ -1,0 +1,12 @@
+languages = ngôn ngữ
+languages.description = miêu tả
+languages.description.tooltip = Mô tả tóm tắt để xác định ngôn ngữ này.
+languages.destination = điểm đến
+languages.general = Chung
+languages.langcode = ngôn ngữ
+languages.langcode.tooltip = Ngôn ngữ được đặt trên kênh
+languages.mod_dest = Điểm đến của module
+languages.name = Tên
+languages.name.tooltip = tên viết tắt (phải là duy nhất).
+menu.languages = ngôn ngữ
+module.languages = ngôn ngữ

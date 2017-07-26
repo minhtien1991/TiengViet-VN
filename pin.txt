@@ -1,0 +1,16 @@
+menu.pin_lists = Danh sách PIN
+module.pin = Danh sách PIN
+pin = danh mục mã PIN
+pin.general = Chung
+pin.confirm_delete = Bạn có chắc chắn muốn xóa mã PIN danh sách?
+pin.delete = loại bỏ
+pin.description = miêu tả
+pin.description.invalid = Mô tả được yêu cầu
+pin.description.tooltip = Một mô tả ngắn gọn về các danh sách mã PIN.
+pin.none = bất kỳ
+pin.passwords = Mật khẩu PIN
+pin.passwords.duplicate = PIN trùng lặp
+pin.passwords.empty = Nó đòi hỏi ít nhất một mã PIN trong danh sách mã PIN
+pin.passwords.invalid = PIN không hợp lệ trong danh sách mã PIN. Sử dụng chỉ số và ký hiệu "*" (dấu sao). Riêng mỗi PIN với một dòng sản phẩm mới
+pin.passwords.tooltip = Danh sách mã PIN có thể được sử dụng. Một số PIN có thể là bất kỳ sự kết hợp của số và ký hiệu "*" (dấu sao). Để thêm nhiều số PIN, bạn có thể làm như vậy nếu họ bắt đầu một dòng mới.
+pin.pin_list_not_found = Không có danh sách các mã PIN để xóa

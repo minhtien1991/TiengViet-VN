@@ -1,0 +1,11 @@
+﻿blacklist = Danh sách đen
+blacklist.description = Mô tả
+blacklist.description.tooltip =Mô tả tóm tắt cho số để đưa vào danh sách đen.
+blacklist.general = chung
+blacklist.not_found = Danh sách đen không tìm thấy
+blacklist.number = Số CID
+blacklist.number.tooltip = Số được đưa vào danh sách đen.
+blacklist.search = tìm kiếm
+menu.blacklist = tìm kiếm
+module.blacklist = tìm kiếm
+blacklist.numebr.invalid = Số danh sách đen không hợp lệ. <br> phải chứa chữ số, chữ số và / hoặc các ký hiệu "-". "!", "_", "~", "*", "'", "(", ")", "&"" "" = "" + "" $ "" "" "" "" / "?.

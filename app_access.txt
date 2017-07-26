@@ -1,0 +1,14 @@
+﻿app_access = ứng dụng truy cập
+app_access.application_deleted = chià khóa để ứng dụng này đã được xóa thành công
+app_access.confirm_delete = Bạn có chắc chắn muốn xóa chià khóa cho ứng dụng này
+app_access.delete = xóa bỏ
+app_access.maintenance = Bảo trì
+app_access.displayname = Tên ứng dụng
+app_access.displayname.invalid = Tên của ứng dụng không thể để trống
+app_access.displayname.tooltip = Tên mô tả chính của ứng dụng này
+app_access.general = Chung
+app_access.key = chìa khóa
+app_access.key.invalid = phím ứng dụng không thể để trống và phải có giá trị
+app_access.key.tooltip = ứng dụng chính Base64 mã hóa
+menu.app_access = ứng dụng truy cập
+module.app_access = ứng dụng truy cập

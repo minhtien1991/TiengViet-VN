@@ -1,0 +1,28 @@
+menu.paging_and_intercom = Paging & Intercom
+module.paging = Paging & Intercom
+paging = Paging & Intercom
+paging.description = Miêu tả
+paging.description.tooltip = Mô tả ngắn để xác định phân trang này
+paging.duplex = Duplex Audio
+paging.duplex.tooltip = Đôi khi được gọi là "trang phân trang lại", việc sử dụng tùy chọn này ngụ ý rằng thiết bị nhận được trang có khả năng truyền âm thanh cùng lúc với âm thanh. Nói chung, bạn sẽ không muốn sử dụng điều này trừ khi bạn có một nhu cầu cụ thể cho nó.
+paging.extensions = Extensions
+paging.extensions.invalid = Vui lòng chọn ít nhất một extension
+paging.extensions.tooltip = Danh sách các extension quay số.
+paging.extension = Mã
+paging.extension.invalid = Mã trang không hợp lệ. Chỉ cho phép *, #, + và số.
+paging.extension.tooltip = Số để truy cập dịch vụ này
+paging.general = Chung
+paging.ignore = Bỏ qua cuộc gọi chuyển tiếp
+paging.ignore.tooltip = Bỏ qua những nỗ lực để chuyển tiếp cuộc gọi
+paging.invalid.already_exists = Số trang không hợp lệ {0}. Số được sử dụng bởi {1} mô-đun.
+paging.quiet = Chế độ yên lặng
+paging.quiet.tooltip = Yên tĩnh, không play tiếng bíp cho người gọi
+paging.record = Ghi hồ sơ
+paging.record.tooltip = Ghi lại trang vào một tệp tin
+paging.seconds =
+	[one] One Second
+	[other] {0} Seconds
+paging.skip_busy = Bỏ qua Bận
+paging.skip_busy.tooltip = Chỉ số kênh chỉ khi trạng thái thiết bị là NOT_INUSE. Tùy chọn này có thể chỉ hữu ích (và đáng tin cậy) trên các kênh được SIP ràng buộc, và thậm chí như vậy có thể không hoạt động nếu một dòng được phép nhiều cuộc gọi trên nó. Do đó, không dựa vào tùy chọn này trong mọi trường hợp.
+paging.timeout = Timeout
+paging.timeout.tooltip = Chỉ định khoảng thời gian mà hệ thống sẽ cố gắng kết nối cuộc gọi. Sau thời gian này, bất kỳ cuộc gọi nội bộ nào mà không được trả lời sẽ bị treo lên bởi hệ thống.

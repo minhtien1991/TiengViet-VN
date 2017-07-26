@@ -1,0 +1,5 @@
+﻿cpbx.licenses_title.warning = CẢNH BÁO! KHÔNG PHÉP HỢP LỆ
+cpbx.licenses_content.warning =Giấy phép hệ thống này là không hợp lệ và <b> PBX không thể hoạt động đúng </ b>. <br/> nguyên nhân có thể là do hiệu lực của giấy phép đã hết hạn, hệ thống này không được cấp phép hoặc không có truy cập vào các máy chủ giấy phép. Vui lòng liên hệ quản trị hệ thống của bạn.
+cpbx.licenses_confirm.warning = xác nhận
+cpbx.ombu_allowed_extensions = Nó đã đạt đến giới hạn d mở rộng% giấy phép. <br/> Để mua phần mở rộng giấy phép, liên hệ với đại lý của bạn.
+cpbx.version = Phiên bản CPBX {0}

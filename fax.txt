@@ -1,0 +1,2 @@
+﻿fax.fax_process.fax_arrived = Đã nhận được một bản fax đến {0} từ {1}
+fax.fax_process.subject_new_fax = PBX dịch vụ Fax - đã đi một thông điệp fax mới

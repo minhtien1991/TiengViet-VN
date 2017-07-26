@@ -1,0 +1,9 @@
+﻿feature_category = Loại chức năng
+feature_category.all_features = Tất cả các chức năng
+feature_category.available_features = chức năng có sẵn
+feature_category.description = mô tả
+feature_category.description.tooltip = Tên xác định loại Chức năng này (phải là duy nhất).
+feature_category.enabled_features = chức năng kích hoạt
+feature_category.general = chung
+menu.feature_categories = Loại chức năng
+module.feature_category = Loại chức năng

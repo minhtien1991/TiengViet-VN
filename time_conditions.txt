@@ -1,0 +1,16 @@
+﻿menu.time_conditions = Điều kiện thời gian
+module.time_conditions = Điều kiện thời gian
+time_conditions = Điều kiện thời gian
+time_conditions.cancel = hủy bỏ
+time_conditions.delete = xóa bỏ
+time_conditions.description = mô tả
+time_conditions.description.tooltip = Mô tả ngắn để xác định Điều kiện Thời gian này.
+time_conditions.falsegoto = Điểm đến nếu thời gian không khớp với% s
+time_conditions.general = Điều kiện thời gian
+time_conditions.modfalse = Module sai
+time_conditions.modtrue = Module đúng
+time_conditions.save = lưu
+time_conditions.time_group_id = Nhóm Thời gian
+time_conditions.time_group_id.tooltip = Chọn Nhóm Thời gian được tạo theo Nhóm Thời gian. Thời gian kết hợp sẽ được gửi đến đích kết hợp.
+time_conditions.truegoto = Điểm đến nếu thời gian khớp với% s
+time_conditions.update = Cập nhật

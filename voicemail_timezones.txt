@@ -1,0 +1,14 @@
+﻿menu.voicemail_timezones = Múi giờ của thư thoại
+module.voicemail_timezones = Múi giờ của thư thoại
+voicemail_timezones = Múi giờ của thư thoại
+voicemail_timezones.confirm_delete = Bạn có chắc chắn muốn xóa múi giờ này không?
+voicemail_timezones.delete = xóa
+voicemail_timezones.general = chung
+voicemail_timezones.none = không ai
+voicemail_timezones.timezone = Múi giờ
+voicemail_timezones.timezone.tooltip = Múi giờ được chọn.
+voicemail_timezones.tzdefinition = Định nghĩa Thời gian
+voicemail_timezones.tzname = tên
+voicemail_timezones.tzname.tooltip = Tên viết tắt của múi giờ này
+voicemail_timezones.voicemail_timezone_id = Thông điệp của Zone
+voicemail_timezones.voicemail_timezone_id.tooltip = Múi giờ từ Thông báo Khu vực, Nếu được thiết lập là 'không', nó sẽ được thực hiện bởi phần cài đặt chung. Không liên quan nếu Phong bì là 'không'.

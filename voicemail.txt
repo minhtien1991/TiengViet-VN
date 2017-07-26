@@ -1,0 +1,2 @@
+﻿vm_bodytext = Bạn đã nhận được một thư thoại dài $ {VM_DUR} từ $ {VM_CALLERID} lúc $ {VM_DATE}. \ NBài ghi âm này được đính kèm với email này, bạn cũng có thể nghe nó bằng cách quay số * 97 từ phần mở rộng của riêng bạn, hoặc Bằng cách quay số * 98 từ bất kỳ phần mở rộng nào khác
+vm_subject = Số thư thoại $ {VM_MSGNUM} cho hộp thư $ {VM_MAILBOX} từ $ {VM_CALLERID} đã nhận được vào $ {VM_DATE}

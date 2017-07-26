@@ -1,0 +1,15 @@
+menu.queue_vips = Queue VIPs
+module.queues_vip = Queue VIPs
+queues_vip = Queues VIP
+queues_vip.confirm_delete = Bạn có chắc chắn muốn xóa danh sách VIP hàng đợi này?
+queues_vip.delete = Xóa
+queues_vip.description = Miêu tả
+queues_vip.description.tooltip = Mô tả ngắn để xác định hàng đợi VIP sắc esta.
+queues_vip.general = Chung
+queues_vip.list = Danh sách VIP
+queues_vip.list.duplicate = VIP Queue Danh sách không thể chứa số trùng lặp.
+queues_vip.list.empty = Ít nhất một số phải tồn tại trong danh sách VIP.
+queues_vip.list.invalid = Số Queue không hợp lệ trong danh sách VIP. Sử dụng chỉ số. Tách riêng từng số với một dòng mới.
+queues_vip.list.tooltip = Chèn danh sách các số. Mỗi số có nên được trên một dòng riêng biệt.
+queues_vip.none = None
+queues_vip.not_found = Yêu cầu danh sách khách VIP hàng đợi không tồn tại

@@ -1,0 +1,14 @@
+enu.speed_dialing = Quay số nhanh
+module.speeddial = Quay số nhanh
+speeddial = Quay số nhanh
+speeddial.class_of_service_id = Lớp dịch vụ
+speeddial.class_of_service_id.tooltip = Lớp Dịch vụ sử dụng để quay số quay số nhanh này
+speeddial.description = Sự miêu tả
+speeddial.description.tooltip = Tên xác định số Tốc độ Quay này
+speeddial.dnumber = Destination Number
+speeddial.dnumber.tooltip = Số để quay số.
+speeddial.extension = Mã quay số nhanh
+speeddial.extension.invalid = Mã gọi tốc độ không hợp lệ. Chỉ sử dụng số và biểu tượng "*" (dấu hoa thị).
+speeddial.extension.tooltip = Mã để kích hoạt tính năng quay số nhanh này. Mã số phải là duy nhất cho hệ thống, nghĩa là không được sử dụng ở bất kỳ nơi nào khác trong hệ thống.
+speeddial.general = Chung
+speeddial.invalid.already_exists = Số quay số không hợp lệ {0}. Số được sử dụng bởi {1} mô-đun.

@@ -1,0 +1,1 @@
+﻿fax.unlicensed = Nó đã không tìm thấy một giấy phép hợp lệ cho FaxMaster.

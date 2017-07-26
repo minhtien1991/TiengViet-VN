@@ -1,0 +1,17 @@
+﻿class_of_service = lớp của dich vụ
+class_of_service.ars_id = Lựa chọn Tuyến đường
+class_of_service.ars_id.tooltip = Các tuyến đường để sử dụng cho các loại hình dịch vụ cho các cuộc gọi đi.
+class_of_service.badnumber = Đích không hợp lệ.
+class_of_service.configurations = cấu hình
+class_of_service.cos = lớp của dịch vụ
+class_of_service.cos.tooltip = lớp của dịch vụ (phải là duy nhất). giá trị chữ và số được phép viết kịch bản và gạch chân.
+class_of_service.description = tên
+class_of_service.description.tooltip = mô tả ngắn gọn để xác định loại hình dịch vụ này.
+class_of_service.dialrule_id = Hạn chế quay số
+class_of_service.dialrule_id.tooltip = Đánh dấu hạn chế thành lập cho các loại hình dịch vụ.
+class_of_service.feature_code_category_id = tính năng điện thoại
+class_of_service.feature_code_category_id.tooltip = Chức năng điện thoại cho phép Lớp Dịch vụ này
+class_of_service.general =chung
+class_of_service.lastdest = Điểm đến cuối cùng
+menu.class_of_service = lớp của dịch vụ
+module.class_of_service = lớp của dịch vụ

@@ -1,0 +1,10 @@
+﻿custom_dest = khu tùy chỉnh
+custom_dest.class_of_service_id = lớp của dịch vụ
+custom_dest.class_of_service_id.tooltip = lớp dịch vụ tìm kiếm số để quay
+custom_dest.description = mô tả
+custom_dest.description.tooltip = tên nhận dạng đích đến tùy chỉnh
+custom_dest.destination = Số quay số
+custom_dest.destination.tooltip = nội bộ hay bên ngoài số điện thoại để quay số
+custom_dest.general = chung	
+menu.custom_destinations = tùy chỉnh Estinos
+module.custom_dest = khu tùy chỉnh

@@ -1,0 +1,15 @@
+﻿extension_time_group.default.description = Lịch nhóm Portal% s
+extension_time_group.general = Chung
+extension_time_group.no_extension = Usted không sử dụng một cổng thông tin
+extension_time_group.schedules = thời gian biểu
+extension_time_group.schedules.mday_end = Cuối tháng
+extension_time_group.schedules.mday_start = Ngày tháng Trang chủ
+extension_time_group.schedules.month_end = tháng kết thúc
+extension_time_group.schedules.month_start = tháng Trang chủ
+extension_time_group.schedules.tend = thời gian cuối
+extension_time_group.schedules.tstart = thời gian bắt đầu
+extension_time_group.schedules.wday_end = Ngày Tuần bắt đầu
+extension_time_group.schedules.wday_start = Tuần Ngày chủ
+extension_time_group.select_time = - Chọn thời gian -
+menu.my_time_group = Biểu Nhóm của tôi
+module.extension_timegroup = Biểu Nhóm của tôi

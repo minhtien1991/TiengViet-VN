@@ -1,0 +1,10 @@
+menu.queue_priorities = Ưu tiên hàng đợi
+module.queues_priority = Ưu tiên hàng đợi
+queues_priority = QƯu tiên hàng đợi
+queues_priority.description = Miêu tả
+queues_priority.description.tooltip = Mô tả ngắn cho Xác định esta priority queue.
+queues_priority.destination = điểm đến
+queues_priority.general = Chung
+queues_priority.mod_dest = Module Destination
+queues_priority.priority = Ưu tiên
+queues_priority.priority.tooltip = Queue ưu tiên để thiết lập.

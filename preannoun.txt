@@ -1,0 +1,10 @@
+menu.announcements = Thông báo
+module.preannoun = Thông báo
+preannoun = Thông báo
+preannoun.description = Sự miêu tả
+preannoun.description.tooltip = Mô tả ngắn để xác định Thông báo này.
+preannoun.destination = Điểm đến sau khi phát %s
+preannoun.general = Chung
+preannoun.mod_dest = Điểm đến Module
+preannoun.recording_id = Ghi hình tùy chỉnh
+preannoun.recording_id.tooltip = Ghi để phát trên Thông báo này.

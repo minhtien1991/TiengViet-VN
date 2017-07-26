@@ -1,0 +1,15 @@
+﻿custom_app = các ứng dụng tùy chỉnh
+custom_app.description = tên
+custom_app.description.tooltip = Đặt tên để xác định ứng dụng tùy chỉnh này.
+custom_app.destination = điểm đến
+custom_app.extension =đang
+custom_app.extension.tooltip = Mã này để kích hoạt các ứng dụng tùy chỉnh. Mã này phải là duy nhất vào hệ thống, tức là không nên sử dụng bất cứ nơi nào khác trong hệ thống.
+custom_app.general = chung
+custom_app.mod_dest = độ lớn điểm đến
+custom_app.mod_dest.custom = cá nhân
+custom_app.mod_dest.select = chọn độ lớn
+custom_app.mod_dest.terminate_call = kết thúc cuộc gọi
+custom_app.status = kích hoạt
+custom_app.status.tooltip = Kích hoạt / Vô hiệu hóa ứng dụng tùy chỉnh này
+menu.custom_applications = các ứng dụng tùy chỉnh
+module.custom_app = các ứng dụng tùy chỉnh

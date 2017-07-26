@@ -1,0 +1,12 @@
+﻿accountcode = Mã khách hàng
+accountcode.code = Mã khách hàng
+accountcode.code.tooltip = Mã số khách hàng
+accountcode.description = Miêu tả
+accountcode.description.tooltip = Mô tả tóm tắt để xác định các mã khách hàng
+accountcode.enabled = kích hoạt
+accountcode.enabled.tooltip = kích hoạt / vô hiệu hóa mã khách hàng này.
+accountcode.general = chung
+accountcode.not_found = Mã khách hàng không tồn tại
+accountcode.search = Tìm kiếm
+module.accountcode = Mã khách hàng
+menu.account_codes = Mã khách hàng

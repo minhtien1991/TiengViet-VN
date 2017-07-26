@@ -1,0 +1,5 @@
+﻿asterisk_cli.commands_updated = Tất cả các lệnh cập nhật thành công
+asterisk_cli.general = chung
+asterisk_cli.input-cmd.placeholder = Gõ lệnh ở đây !!
+menu.asterisk_cli = Asterisk CLI
+module.asterisk_cli = Asterisk CLI

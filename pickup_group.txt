@@ -1,0 +1,15 @@
+menu.pickup_groups = Nhóm người mua
+module.pickup_group = Nhóm người mua
+pickup_group = Nhóm người mua
+pickup_group.allow_pickup = Cho phép đón
+pickup_group.allow_pickup.tooltip = Cho phép thành viên đón nhận của nhóm đón này
+pickup_group.description = Sự miêu tả
+pickup_group.description.tooltip = Mô tả ngắn cho nhóm đón này.
+pickup_group.extension = Extension
+pickup_group.extension.tooltip = Gia hạn để trở thành một thành viên hoặc được phép chọn một thành viên của nhóm đón khách này, hoặc cả hai
+pickup_group.extension_id.duplicate = Không cho phép các tiện ích mở rộng trùng lặp trong nhóm đón.
+pickup_group.extension_id.empty = Bạn phải thêm ít nhất một phần mở rộng vào phần nàyup.
+pickup_group.general = Chung
+pickup_group.member = Thành viên
+pickup_group.member.tooltip = Cho biết nếu gia hạn này là một thành viên của nhóm mua bán này
+pickup_group.no_options = Các phần mở rộng phải được chỉ định làm thành viên và / hoặc được phép nhận.

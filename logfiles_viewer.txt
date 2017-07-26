@@ -1,0 +1,12 @@
+logfiles_viewer.error = Lỗi
+logfiles_viewer.general = Chung
+logfiles_viewer.invalid_request = yêu cầu không hợp lệ
+logfiles_viewer.lines = Dòng
+logfiles_viewer.lines.tooltip = Số dòng để hiển thị
+logfiles_viewer.logfile = đăng ký lưu trữ
+logfiles_viewer.logfile.tooltip = Chọn tập tin đăng nhập để xem
+logfiles_viewer.no_file_selected = Không chọn tập tin
+logfiles_viewer.read_logfile = Đọc Log File
+logfiles_viewer.select_logfile = --- Chọn một tập tin đăng nhập ---
+menu.log_file_viewer = Log Viewer file
+module.logfiles_viewer = Log Viewer file

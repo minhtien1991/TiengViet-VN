@@ -1,0 +1,16 @@
+﻿call_back = Gọi lại
+call_back.class_of_service_id = lớp của dịch vụ
+call_back.class_of_service_id.tooltip = lớp dịch vụ để trở lại dịch vụ
+call_back.delay = độ trễ
+call_back.delay.tooltip = Chậm trễ (tính bằng giây) trước khi gọi lại. Đặt 0 để gọi ngay lập tức
+call_back.description = Mô tả
+call_back.description.tooltip = mô tả ngắn gọn cuộc gọi này
+call_back.destination = điểm đến
+call_back.dialnumber = số
+call_back.dialnumber.tooltip = Số quay trở lại cuộc gọi.
+call_back.dialprefix = mã vùng
+call_back.dialprefix.tooltip =Số thêm vào trước để quay số
+call_back.general = chung
+call_back.mod_dest = kiểm soát độ lớn
+menu.call_back = gọi lại
+module.call_back = gọi lại
